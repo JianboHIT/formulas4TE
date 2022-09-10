@@ -1,7 +1,17 @@
 # formulas4TE(under-developed)
 Summary some formulas and equations for thermoelectricity(TE)
 
+> 选择语言：简体中文, English
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在热电研究中，我们常常需要反复地使用一些公式。
+尽管目前 MicroSoft Office 提供了非常方便的内嵌公式编辑器，但是由于公式的形式较为复杂，
+因此我们还是需要花费大量的时间来输入这些公式。这里，我们总结了一些高频使用的公式，
+不但能够方便截图使用，同时也能够非常容易地粘贴为 MicroSoft Office 的内嵌公式
+（参考后面的使用方法：**如何在 MicroSoft Office 中使用这里的公式**），提高工作效率。
+
+
 ### Preview version
+
 $$ZT=\frac{\sigma S^2}{\kappa} \cdot T$$
 
 $$PF=\sigma S^{2}$$
