@@ -55,6 +55,8 @@ $$\eta = \frac{T_{h}-T_{c}}{T_{h}} \cdot \frac{\sqrt{1+ZT}-1}{\sqrt{1+ZT}+T_{c} 
 
 $$s = \frac{\sqrt{1+ZT}-1}{S \cdot T}$$
 
+$$ \beta = \frac{\mu_{0} (m^{*}/m_{e})^{3/2} T^{3/2}}{\kappa_{L}}T $$
+
 
 ## 附录：如何在 MicroSoft Office 中使用这里的公式
 
