@@ -58,6 +58,31 @@ $$s = \frac{\sqrt{1+ZT}-1}{S \cdot T}$$
 $$ \beta = \frac{\mu_{0} (m^{*}/m_{e})^{3/2} T^{3/2}}{\kappa_{L}}T $$
 
 
+## APS-SPB Model
+
+*Single parabolic band (SPB) model with acoustic phonon scattering (APS) mechanism and deformation potential theory*
+
+$$ E = \frac{\hbar ^{2} k^{2}}{2 m^{*}} $$
+
+$$ g(E) = \frac{(2 m_d^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} = \frac{N_{v} (2 m_b^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} $$
+
+$$ \tau = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} = \frac{2 \pi \hbar^{4} C_{ii}}{(2 m^{*})^{3/2} k_{B} T \Xi^{2}} E^{-1/2} $$
+
+$$ F_n(\eta) = \int_{0}^{+\infty} \frac{x^{n}}{1+\exp (x-\eta)} dx $$
+
+$$ n = \frac{N_{v}( 2 m_{b}^{*} k_{B} T )^{3/2}}{2\pi ^{2} \hbar ^{3}} F_{1/2}( \eta ) $$
+
+$$ \mu = \frac{4 \pi e \hbar ^{4} C_{ii}}{m_{I}^{*} (2 m_b^{*} k_{B} T)^{3/2} \Xi ^{2}} \frac{F_{0}(\eta)}{3 F_{1/2}(\eta)} $$
+
+$$ \sigma = \frac{2 N_{v} e^2 \hbar C_{ii}}{3 \pi m_{I}^{*} \Xi ^{2} } F_{0}(\eta)$$
+
+$$ S = \frac{k_{B}}{e} \left( \frac{2 F_{1}(\eta)}{F_{0}(\eta)} - \eta \right) $$
+
+$$ L = \frac{k_{B}^{2}}{e^{2}} \frac{3 F_{0}(\eta) F_{2}(\eta) - 4 F_{1}^{2}(\eta) }{F_{0}^{2}(\eta)} $$
+
+$$ r_{H} = \frac{n}{n_{H}} = \frac{\mu_{H}}{\mu} = \frac{3 F_{1/2}(\eta) F_{-1/2}(\eta)}{4 F_{0}^{2}(\eta)} $$
+
+
 ## Expressions for Multiband Conduction
 
 $$ n = \sum_{i}{n_{i}} $$
