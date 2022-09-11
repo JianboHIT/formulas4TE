@@ -9,6 +9,7 @@ Summary some formulas and equations for thermoelectricity(TE)
 不但能够方便截图使用，同时也能够非常容易地粘贴为 MicroSoft Office 的内嵌公式
 （参考后面的**附录：如何在 MicroSoft Office 中使用这里的公式**），提高工作效率。
 
+<!--
 
 ### Preview version
 
@@ -32,6 +33,7 @@ $$\mu_{r} = \left( {1 + \frac{n_{r}}{2}} \right)^{-1/3}$$
 
 $$L_{r} = 2 + \frac{\pi^{2}/3-2}{\left[ {1+(n_{r}/2\pi)^{-3/2}} \right] ^ {3/2}}$$
 
+-->
 
 ### Basic Principles
 
