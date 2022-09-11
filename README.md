@@ -83,6 +83,23 @@ $$ L = \frac{k_{B}^{2}}{e^{2}} \frac{3 F_{0}(\eta) F_{2}(\eta) - 4 F_{1}^{2}(\et
 $$ r_{H} = \frac{n}{n_{H}} = \frac{\mu_{H}}{\mu} = \frac{3 F_{1/2}(\eta) F_{-1/2}(\eta)}{4 F_{0}^{2}(\eta)} $$
 
 
+## Boltzmann Equation Description of Electron Transport
+
+$$ f = \frac{1}{1+\exp \left( \frac{E - E_{F}}{k_{B} T} \right)} $$
+
+$$ n = \int_{0}^{+\infty} {f \cdot g(E)} dE $$
+
+$$ p = \int_{-\infty}^{0} {(1-f) \cdot g(E)} dE $$
+
+$$ \sigma(E) = e^2 \tau(E)v^{2}(E)g(E) $$
+
+$$ \sigma = \int_{-\infty}^{+\infty}{\sigma(E) \cdot \left( -\frac{\partial f}{\partial E} \right)} dE $$
+
+$$ S = -\frac{1}{\sigma \cdot eT} \int_{-\infty}^{+\infty}{\sigma(E) \cdot (E-E_{F})\left( -\frac{\partial f}{\partial E} \right)} dE $$
+
+$$ \kappa_{e} = \frac{1}{e^{2}T} \int_{-\infty}^{+\infty}{\sigma(E) \cdot (E-E_{F})^{2} \left( -\frac{\partial f}{\partial E} \right)} dE - \sigma S^{2} T $$
+
+
 ## Expressions for Multiband Conduction
 
 $$ n = \sum_{i}{n_{i}} $$
