@@ -1,7 +1,7 @@
 # formulas4TE(under-developed)
 Summary some formulas and equations for thermoelectricity(TE)
 
-> 选择语言：简体中文, English
+> 选择语言：简体中文, English(*TODO*)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在热电研究中，我们常常需要反复地使用一些公式。
 尽管目前 MicroSoft Office 提供了非常方便的内嵌公式编辑器，但是由于公式的形式较为复杂，
