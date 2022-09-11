@@ -58,6 +58,19 @@ $$s = \frac{\sqrt{1+ZT}-1}{S \cdot T}$$
 $$ \beta = \frac{\mu_{0} (m^{*}/m_{e})^{3/2} T^{3/2}}{\kappa_{L}}T $$
 
 
+## Expressions for Multiband Conduction
+
+$$ n = \sum_{i}{n_{i}} $$
+
+$$ \sigma = \sum_{i} {\sigma_{i}} $$
+
+$$ S = \frac{\sum_{i}{\sigma_{i} S_{i}}}{\sum_{i}{\sigma_{i}}} $$
+
+$$ R_{H} = \frac{\sum_{i}{\sigma_{i}^{2} R_{H,i}}}{\left( \sum_{i}{\sigma_{i}} \right) ^{2}} $$
+
+$$ \kappa_{e} = \left[ {\sum_{i}{L_{i} \sigma_{i}} + \sum_{i}{\sigma_{i} S_{i}^{2}} - \frac{\left( \sum_{i}{\sigma_{i} S_{i}} \right) ^{2}}{\sum_{i}{\sigma_{i}}} } \right] \cdot T $$
+
+
 ## 附录：如何在 MicroSoft Office 中使用这里的公式
 
 ### &bull; 方法一（适用于 Word 和 PPT）
