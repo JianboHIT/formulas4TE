@@ -33,6 +33,27 @@ $$\mu_{r} = \left( {1 + \frac{n_{r}}{2}} \right)^{-1/3}$$
 $$L_{r} = 2 + \frac{\pi^{2}/3-2}{\left[ {1+(n_{r}/2\pi)^{-3/2}} \right] ^ {3/2}}$$
 
 
+### Basic Principles
+
+$$ZT=\frac{\sigma S^2}{\kappa} \cdot T$$
+
+$$PF=\sigma S^{2}$$
+
+$$\sigma = ne\mu$$
+
+$$\mu = e \frac{\tau}{m^{*}}$$
+
+$$\kappa = \kappa_{L} + \kappa_{e} + \kappa_{bip} $$
+
+$$\kappa_{L} = \frac{1}{3} \cdot C_{v}vl$$
+
+$$\kappa_{e} = L \sigma T$$
+
+$$\eta = \frac{T_{h}-T_{c}}{T_{h}} \cdot \frac{\sqrt{1+ZT}-1}{\sqrt{1+ZT}+T_{c} / T_{h}}$$
+
+$$s = \frac{\sqrt{1+ZT}-1}{S \cdot T}$$
+
+
 ### 附录：如何在 MicroSoft Office 中使用这里的公式
 
 #### &bull; 方法一（适用于 Word 和 PPT）
