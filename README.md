@@ -35,7 +35,7 @@ $$L_{r} = 2 + \frac{\pi^{2}/3-2}{\left[ {1+(n_{r}/2\pi)^{-3/2}} \right] ^ {3/2}}
 
 -->
 
-### Basic Principles
+## Basic Principles
 
 $$ZT=\frac{\sigma S^2}{\kappa} \cdot T$$
 
@@ -56,9 +56,9 @@ $$\eta = \frac{T_{h}-T_{c}}{T_{h}} \cdot \frac{\sqrt{1+ZT}-1}{\sqrt{1+ZT}+T_{c} 
 $$s = \frac{\sqrt{1+ZT}-1}{S \cdot T}$$
 
 
-### 附录：如何在 MicroSoft Office 中使用这里的公式
+## 附录：如何在 MicroSoft Office 中使用这里的公式
 
-#### &bull; 方法一（适用于 Word 和 PPT）
+### &bull; 方法一（适用于 Word 和 PPT）
 
 1. 在网页中的公式上右键，点击 **Copy to Clipboard** > **TeX Commands**；
 
@@ -80,7 +80,7 @@ $$s = \frac{\sqrt{1+ZT}-1}{S \cdot T}$$
 
 <img src="pictures/step-1-5.png" width="85%">
 
-#### &bull; 方法二（仅适用于 Word）
+### &bull; 方法二（仅适用于 Word）
 
 1. 在网页中的公式上右键，点击 **Copy to Clipboard** > **MathML Code**；
 
