@@ -109,15 +109,15 @@ $$ x = \frac{E}{k_{B}T}, \eta = \frac{E_{F}}{k_{B}T}, \alpha = \frac{k_{B}T}{E_{
 
 $$ n = \frac{N_{v}( 2 m_{b}^{*} k_{B} T )^{3/2}}{3\pi ^{2} \hbar ^{3}} {^{0}F^{3/2}_{0}(\eta, \alpha)} $$
 
-$$ \mu = \frac{2 \pi e \hbar ^{4} C_{ii}}{m_{I}^{*} (2 m_{b}^{*} k_{B} T)^{3/2} \Xi ^{2}} \frac{3\ ^{0}F^{1}_{-2}(\eta, \alpha)} {^{0}F^{3/2}_{0}(\eta, \alpha)} $$
+$$ \mu = \frac{2 \pi e \hbar ^{4} C_{ii}}{m_{I}^{*} (2 m_{b}^{*} k_{B} T)^{3/2} \Xi ^{2}} \frac{3\ ^{0}F^{1} _{-2}(\eta, \alpha)} {^{0}F^{3/2} _{0}(\eta, \alpha)} $$
 
-$$ \sigma = \frac{2 N_{v} e^2 \hbar C_{ii}}{\pi m_{I}^{*} \Xi ^{2} } {^{0}F^{1}_{-2}(\eta, \alpha)} $$
+$$ \sigma = \frac{2 N_{v} e^2 \hbar C_{ii}}{\pi m_{I}^{*} \Xi ^{2} } {^{0}F^{1} _{-2}(\eta, \alpha)} $$
 
-$$ S = \frac{k_{B}}{e} \left( \frac{^{1}F^{1}_{-2}(\eta, \alpha)}{^{0}F^{1}_{-2}(\eta, \alpha)} - \eta \right) $$
+$$ S = \frac{k_{B}}{e} \left( \frac{^{1}F^{1} _{-2}(\eta, \alpha)}{^{0}F^{1} _{-2}(\eta, \alpha)} - \eta \right) $$
 
-$$ L = \frac{k_{B}^{2}}{e^{2}} \left[ \frac{^{2}F^{1}_{-2}(\eta, \alpha)}{^{0}F^{1}_{-2}(\eta, \alpha)} - \left( \frac{^{1}F^{1}_{-2}(\eta, \alpha)}{^{0}F^{1}_{-2}(\eta, \alpha)} \right) ^{2} \right] $$
+$$ L = \frac{k_{B}^{2}}{e^{2}} \left[ \frac{^{2}F^{1} _{-2}(\eta, \alpha)}{^{0}F^{1} _{-2}(\eta, \alpha)} - \left( \frac{^{1}F^{1} _{-2}(\eta, \alpha)}{^{0}F^{1} _{-2}(\eta, \alpha)} \right) ^{2} \right] $$
 
-$$ r_{H} = \frac{n}{n_{H}} = \frac{\mu_{H}}{\mu} = \frac{{^{0}F^{3/2}_{0}(\eta, \alpha)}\cdot {^{0}F^{1/2}_{-4}(\eta, \alpha)}}{\left( {^{0}F^{1}_{-2}(\eta, \alpha)} \right) ^{2}} $$
+$$ r_{H} = \frac{n}{n_{H}} = \frac{\mu_{H}}{\mu} = \frac{{^{0}F^{3/2} _{0}(\eta, \alpha)}\cdot {^{0}F^{1/2} _{-4}(\eta, \alpha)}}{\left( {^{0}F^{1} _{-2}(\eta, \alpha)} \right) ^{2}} $$
 
 
 ## Boltzmann Equation Description of Electron Transport
