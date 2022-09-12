@@ -11,7 +11,7 @@ Summary some formulas and equations for thermoelectricity(TE)
 ），提高工作效率。这里强烈推荐使用后面的方法在 MicroSoft Office 中粘贴使用公式，
 一方面可以对公式进行进一步的修改和调整，满足自己的需求，
 同时也可以获得比网页截图更好的显示效果，比如上、下标显示的相对大小更加合理。
-非常欢迎大家在讨论区（[Issues](https://github.com/JianboHIT/formulas4TE/issues)）里勘误、建议以及补充！
+非常欢迎大家在讨论区（[Issues](../../issues)）里勘误、建议以及补充！
 
 - [Basic Principles](#basic-principles)
 - [APS-SPB Model](#aps-spb-model)
