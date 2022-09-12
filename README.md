@@ -159,6 +159,27 @@ $$ R_{H} = \frac{\sum_{i}{\sigma_{i}^{2} R_{H,i}}}{\left( \sum_{i}{\sigma_{i}} \
 $$ \kappa_{e} = \left[ {\sum_{i}{L_{i} \sigma_{i}} + \sum_{i}{\sigma_{i} S_{i}^{2}} - \frac{\left( \sum_{i}{\sigma_{i} S_{i}} \right) ^{2}}{\sum_{i}{\sigma_{i}}} } \right] \cdot T $$
 
 
+## Equations in Papers
+
+### P001: Engineering Thermoelectric Model (H.S. Kim et al., 2015)
+
+$$ \eta_{max} = \eta _{c} \frac{\sqrt{1 + ZT _{eng} \alpha _{1} \eta _{c}^{-1}} - 1}{\alpha _{0} \sqrt{1 + ZT _{eng}  \alpha _{1} \eta _c^{-1}} + \alpha _{2}} $$
+
+([More Equations ...](papers/P001.md))
+
+> &bull; H.S. Kim, W. Liu, G. Chen, C. Chu, Z. Ren, Relationship between thermoelectric figure of merit and energy conversion efficiency, Proceedings of the National Academy of Sciences 112 (27) (2015) 8205-8210. [ https://doi.org/10.1073/pnas.1510231112](https://doi.org/10.1073/pnas.1510231112)
+
+### P002: Restructure SPB (RSPB) Model (J. Zhu et al., 2021)
+
+$$ S_{r} = \ln \left( 1.075 + \frac{e^{2}}{n_{r}} \right) $$
+
+([More Equations ...](papers/P002.md))
+
+> &bull; J. Zhu, X. Zhang, M. Guo, J. Li, J. Hu, S. Cai, W. Cai, Y. Zhang, J. Sui, Restructured single parabolic band model for quick analysis in thermoelectricity, npj computational materials 7 (1) (2021) 1-8. [https://doi.org/10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5)
+>
+> &bull; GitHub rSPB respository. [https.://github.com/JianboHIT/rSPB](https://github.com/JianboHIT/rSPB)
+
+
 ## 附录：如何在 MicroSoft Office 中使用这里的公式
 
 ### &bull; 方法一（适用于 Word 和 PPT）
