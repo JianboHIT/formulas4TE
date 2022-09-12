@@ -74,6 +74,8 @@ $$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} = \
 
 $$ F_{n}(\eta) = \int _{0}^{+\infty} \frac{x^{n}}{1+\exp (x-\eta)} dx $$
 
+$$ x = \frac{E}{k_{B}T}, \eta = \frac{E_{F}}{k_{B}T} $$
+
 $$ n = \frac{N_{v}( 2 m_{b}^{*} k_{B} T )^{3/2}}{2\pi ^{2} \hbar ^{3}} F_{1/2}( \eta ) $$
 
 $$ \mu = \frac{4 \pi e \hbar ^{4} C_{ii}}{m_{I}^{*} (2 m_{b}^{*} k_{B} T)^{3/2} \Xi ^{2}} \frac{F_{0}(\eta)}{3 F_{1/2}(\eta)} $$
@@ -98,6 +100,8 @@ $$ g(E) = \frac{N_{v} (2 m_{b}^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} \left( 1
 $$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} \frac{3(1+2E/E_{g})^{2}} {(1+2E/E_{g})^{2}+2} $$
 
 $$ ^{n}F^{m}_{k}(\eta, \alpha) = \int _{0}^{+\infty}{x^{n} (x+\alpha x^{2})^{m}[(1+2\alpha x)^{2} + 2]^{k/2} \left( -\frac{\partial f}{\partial x} \right)}dx $$
+
+$$ x = \frac{E}{k_{B}T}, \eta = \frac{E_{F}}{k_{B}T}, \alpha = \frac{k_{B}T}{E_{g}} $$
 
 $$ n = \frac{N_{v}( 2 m_{b}^{*} k_{B} T )^{3/2}}{3\pi ^{2} \hbar ^{3}} {^{0}F^{3/2}_{0}(\eta, \alpha)} $$
 
