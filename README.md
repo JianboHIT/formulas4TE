@@ -18,6 +18,9 @@ Summary some formulas and equations for thermoelectricity(TE)
 - [APS-SKB model](#aps-skb-model)
 - [Boltzmann Equation Description of Electron Transport](#boltzmann-equation-description-of-electron-transport)
 - [Expressions for Multiband Conduction](#expressions-for-multiband-conduction)
+- [Equations in Papers](#equations-in-papers)
+  - [P001: Engineering Thermoelectric Model (H.S. Kim et al., 2015)](#p001-engineering-thermoelectric-model-hs-kim-et-al-2015)
+  - [P002: Restructure SPB (RSPB) Model (J. Zhu et al., 2021)](#p002-restructure-spb-rspb-model-j-zhu-et-al-2021)
 - **[附录：如何在 MicroSoft Office 中使用这里的公式](#%E9%99%84%E5%BD%95%E5%A6%82%E4%BD%95%E5%9C%A8-microsoft-office-%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%BF%99%E9%87%8C%E7%9A%84%E5%85%AC%E5%BC%8F)**
     - [方法一（适用于 Word 和 PPT）](#-%E6%96%B9%E6%B3%95%E4%B8%80%E9%80%82%E7%94%A8%E4%BA%8E-word-%E5%92%8C-ppt)
     - [方法二（仅适用于 Word）](#-%E6%96%B9%E6%B3%95%E4%B8%80%E9%80%82%E7%94%A8%E4%BA%8E-word-%E5%92%8C-ppt)
@@ -177,7 +180,7 @@ $$ S_{r} = \ln \left( 1.075 + \frac{e^{2}}{n_{r}} \right) $$
 
 > &bull; J. Zhu, X. Zhang, M. Guo, J. Li, J. Hu, S. Cai, W. Cai, Y. Zhang, J. Sui, Restructured single parabolic band model for quick analysis in thermoelectricity, npj computational materials 7 (1) (2021) 1-8. [https://doi.org/10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5)
 >
-> &bull; GitHub rSPB respository. [https.://github.com/JianboHIT/rSPB](https://github.com/JianboHIT/rSPB)
+> &bull; GitHub rSPB respository. [https://github.com/JianboHIT/rSPB](https://github.com/JianboHIT/rSPB)
 
 
 ## 附录：如何在 MicroSoft Office 中使用这里的公式
