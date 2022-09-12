@@ -82,7 +82,7 @@ $$ \sigma = \frac{2 N_{v} e^2 \hbar C_{ii}}{3 \pi m_{I}^{*} \Xi ^{2} } F_{0}(\et
 
 $$ S = \frac{k_{B}}{e} \left( \frac{2 F_{1}(\eta)}{F_{0}(\eta)} - \eta \right) $$
 
-$$ L = \frac{k_{B}^{2}}{e^{2}} \frac{3 F_{0}(\eta) F_{2}(\eta) - 4 F_{1}^{2}(\eta) }{F_{0}^{2}(\eta)} $$
+$$ L = \frac{k_{B}^{2}}{e^{2}} \left[ 3 \frac{F_{2}(\eta)}{F_{0}(\eta)} - 4 \left( \frac{F_{1}(\eta) }{F_{0}(\eta)} \right) ^{2} \right] $$
 
 $$ r_{H} = \frac{n}{n_{H}} = \frac{\mu_{H}}{\mu} = \frac{3 F_{1/2}(\eta) F_{-1/2}(\eta)}{4 F_{0}^{2}(\eta)} $$
 
