@@ -72,7 +72,7 @@ $$ g(E) = \frac{(2 m_{d}^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} = \frac{N_{v} 
 
 $$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} = \frac{2 \pi \hbar^{4} C_{ii}}{(2 m^{*})^{3/2} k_{B} T \Xi^{2}} E^{-1/2} $$
 
-$$ F_{n}(\eta) = \int_{0}^{+\infty} \frac{x^{n}}{1+\exp (x-\eta)} dx $$
+$$ F_{n}(\eta) = \int _{0}^{+\infty} \frac{x^{n}}{1+\exp (x-\eta)} dx $$
 
 $$ n = \frac{N_{v}( 2 m_{b}^{*} k_{B} T )^{3/2}}{2\pi ^{2} \hbar ^{3}} F_{1/2}( \eta ) $$
 
@@ -85,6 +85,31 @@ $$ S = \frac{k_{B}}{e} \left( \frac{2 F_{1}(\eta)}{F_{0}(\eta)} - \eta \right) $
 $$ L = \frac{k_{B}^{2}}{e^{2}} \left[ 3 \frac{F_{2}(\eta)}{F_{0}(\eta)} - 4 \left( \frac{F_{1}(\eta) }{F_{0}(\eta)} \right) ^{2} \right] $$
 
 $$ r_{H} = \frac{n}{n_{H}} = \frac{\mu_{H}}{\mu} = \frac{3 F_{1/2}(\eta) F_{-1/2}(\eta)}{4 F_{0}^{2}(\eta)} $$
+
+
+## APS-SKB model
+
+*Single Kane band (SKB) model with acoustic phonon scattering (APS) mechanism and deformation potential theory*
+
+$$ E \left( 1+\frac{E}{E_{g}} \right) = \frac{\hbar ^{2} k^{2}}{2 m^{*}} $$
+
+$$ g(E) = \frac{N_{v} (2 m_{b}^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} \left( 1+\frac{E}{E_{g}} \right) ^{1/2} \left( 1 + 2 \frac{E}{E_{g}} \right) $$
+
+$$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} \frac{3(1+2E/E_{g})^{2}} {(1+2E/E_{g})^{2}+2} $$
+
+$$ ^{n}F^{m}_{k}(\eta, \alpha) = \int _{0}^{+\infty}{x^{n} (x+\alpha x^{2})^{m}[(1+2\alpha x)^{2} + 2]^{k/2} \left( -\frac{\partial f}{\partial x} \right)}dx $$
+
+$$ n = \frac{N_{v}( 2 m_{b}^{*} k_{B} T )^{3/2}}{3\pi ^{2} \hbar ^{3}} {^{0}F^{3/2}_{0}(\eta, \alpha)} $$
+
+$$ \mu = \frac{2 \pi e \hbar ^{4} C_{ii}}{m_{I}^{*} (2 m_{b}^{*} k_{B} T)^{3/2} \Xi ^{2}} \frac{3\ ^{0}F^{1}_{-2}(\eta, \alpha)} {^{0}F^{3/2}_{0}(\eta, \alpha)} $$
+
+$$ \sigma = \frac{2 N_{v} e^2 \hbar C_{ii}}{\pi m_{I}^{*} \Xi ^{2} } {^{0}F^{1}_{-2}(\eta, \alpha)} $$
+
+$$ S = \frac{k_{B}}{e} \left( \frac{^{1}F^{1}_{-2}(\eta, \alpha)}{^{0}F^{1}_{-2}(\eta, \alpha)} - \eta \right) $$
+
+$$ L = \frac{k_{B}^{2}}{e^{2}} \left[ \frac{^{2}F^{1}_{-2}(\eta, \alpha)}{^{0}F^{1}_{-2}(\eta, \alpha)} - \left( \frac{^{1}F^{1}_{-2}(\eta, \alpha)}{^{0}F^{1}_{-2}(\eta, \alpha)} \right) ^{2} \right] $$
+
+$$ r_{H} = \frac{n}{n_{H}} = \frac{\mu_{H}}{\mu} = \frac{{^{0}F^{3/2}_{0}(\eta, \alpha)}\cdot {^{0}F^{1/2}_{-4}(\eta, \alpha)}}{\left( {^{0}F^{1}_{-2}(\eta, \alpha)} \right) ^{2}} $$
 
 
 ## Boltzmann Equation Description of Electron Transport
