@@ -70,6 +70,8 @@ $$ E = \frac{\hbar ^{2} k^{2}}{2 m^{*}} $$
 
 $$ g(E) = \frac{(2 m_{d}^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} = \frac{N_{v} (2 m_{b}^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} $$
 
+$$ v^{2}(E) = \frac{2E}{m_{b}^{*}} $$
+
 $$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} = \frac{2 \pi \hbar^{4} C_{ii}}{(2 m^{*})^{3/2} k_{B} T \Xi^{2}} E^{-1/2} $$
 
 $$ F_{n}(\eta) = \int _{0}^{+\infty} \frac{x^{n}}{1+\exp (x-\eta)} dx $$
@@ -96,6 +98,8 @@ $$ r_{H} = \frac{n}{n_{H}} = \frac{\mu_{H}}{\mu} = \frac{3 F_{1/2}(\eta) F_{-1/2
 $$ E \left( 1+\frac{E}{E_{g}} \right) = \frac{\hbar ^{2} k^{2}}{2 m^{*}} $$
 
 $$ g(E) = \frac{N_{v} (2 m_{b}^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} \left( 1+\frac{E}{E_{g}} \right) ^{1/2} \left( 1 + 2 \frac{E}{E_{g}} \right) $$
+
+$$ v^{2}(E) = \frac{2E}{m_{b}^{*}} \left( 1+\frac{E}{E_{g}} \right) \left( 1 + 2 \frac{E}{E_{g}} \right) ^{-2} $$
 
 $$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} \frac{3(1+2E/E_{g})^{2}} {(1+2E/E_{g})^{2}+2} $$
 
