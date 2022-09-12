@@ -64,15 +64,15 @@ $$ \beta = \frac{\mu_{0} (m^{*}/m_{e})^{3/2} T^{3/2}}{\kappa_{L}}T $$
 
 $$ E = \frac{\hbar ^{2} k^{2}}{2 m^{*}} $$
 
-$$ g(E) = \frac{(2 m_d^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} = \frac{N_{v} (2 m_b^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} $$
+$$ g(E) = \frac{(2 m_{d}^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} = \frac{N_{v} (2 m_{b}^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} $$
 
 $$ \tau = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} = \frac{2 \pi \hbar^{4} C_{ii}}{(2 m^{*})^{3/2} k_{B} T \Xi^{2}} E^{-1/2} $$
 
-$$ F_n(\eta) = \int_{0}^{+\infty} \frac{x^{n}}{1+\exp (x-\eta)} dx $$
+$$ F_{n}(\eta) = \int_{0}^{+\infty} \frac{x^{n}}{1+\exp (x-\eta)} dx $$
 
 $$ n = \frac{N_{v}( 2 m_{b}^{*} k_{B} T )^{3/2}}{2\pi ^{2} \hbar ^{3}} F_{1/2}( \eta ) $$
 
-$$ \mu = \frac{4 \pi e \hbar ^{4} C_{ii}}{m_{I}^{*} (2 m_b^{*} k_{B} T)^{3/2} \Xi ^{2}} \frac{F_{0}(\eta)}{3 F_{1/2}(\eta)} $$
+$$ \mu = \frac{4 \pi e \hbar ^{4} C_{ii}}{m_{I}^{*} (2 m_{b}^{*} k_{B} T)^{3/2} \Xi ^{2}} \frac{F_{0}(\eta)}{3 F_{1/2}(\eta)} $$
 
 $$ \sigma = \frac{2 N_{v} e^2 \hbar C_{ii}}{3 \pi m_{I}^{*} \Xi ^{2} } F_{0}(\eta)$$
 
