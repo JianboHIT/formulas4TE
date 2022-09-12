@@ -13,6 +13,13 @@ Summary some formulas and equations for thermoelectricity(TE)
 同时也可以获得比网页截图更好的显示效果，比如上、下标显示的相对大小更加合理。
 非常欢迎大家在讨论区([Issues](https://github.com/JianboHIT/formulas4TE/issues))里勘误、建议以及补充！
 
+- [Basic Principles](#basic-principles)
+- [APS-SPB Model](#aps-spb-model)
+- [APS-SKB model](#aps-skb-model)
+- [Boltzmann Equation Description of Electron Transport](#boltzmann-equation-description-of-electron-transport)
+- [Expressions for Multiband Conduction](#expressions-for-multiband-conduction)
+- **[附录：如何在 MicroSoft Office 中使用这里的公式](#%E9%99%84%E5%BD%95%E5%A6%82%E4%BD%95%E5%9C%A8-microsoft-office-%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%BF%99%E9%87%8C%E7%9A%84%E5%85%AC%E5%BC%8F)**
+
 <!--
 
 ### Preview version
