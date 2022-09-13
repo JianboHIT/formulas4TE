@@ -1,4 +1,4 @@
-# formulas4TE(under-developed)
+# formulas4TE
 Summary some formulas and equations for thermoelectricity(TE)
 
 > 选择语言：简体中文, English(*TODO*)
@@ -168,7 +168,7 @@ $$ \kappa_{e} = \left[ {\sum_{i}{L_{i} \sigma_{i}} + \sum_{i}{\sigma_{i} S_{i}^{
 
 $$ \eta_{max} = \eta _{c} \frac{\sqrt{1 + ZT _{eng} \alpha _{1} \eta _{c}^{-1}} - 1}{\alpha _{0} \sqrt{1 + ZT _{eng}  \alpha _{1} \eta _c^{-1}} + \alpha _{2}} $$
 
-([Return &#8673;](#formulas4teunder-developed) | [Show Details ...](papers/P001.md))
+([Return &#8673;](#formulas4te) | [Show Details ...](papers/P001.md))
 
 > &bull; H.S. Kim, W. Liu, G. Chen, C. Chu, Z. Ren, Relationship between thermoelectric figure of merit and energy conversion efficiency, Proceedings of the National Academy of Sciences 112 (27) (2015) 8205-8210. [ https://doi.org/10.1073/pnas.1510231112](https://doi.org/10.1073/pnas.1510231112)
 
@@ -176,7 +176,7 @@ $$ \eta_{max} = \eta _{c} \frac{\sqrt{1 + ZT _{eng} \alpha _{1} \eta _{c}^{-1}} 
 
 $$ S_{r} = \ln \left( 1.075 + \frac{e^{2}}{n_{r}} \right) $$
 
-([Return &#8673;](#formulas4teunder-developed) | [Show Details ...](papers/P002.md))
+([Return &#8673;](#formulas4te) | [Show Details ...](papers/P002.md))
 
 > &bull; J. Zhu, X. Zhang, M. Guo, J. Li, J. Hu, S. Cai, W. Cai, Y. Zhang, J. Sui, Restructured single parabolic band model for quick analysis in thermoelectricity, npj computational materials 7 (1) (2021) 1-8. [https://doi.org/10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5)
 >
