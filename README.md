@@ -166,7 +166,7 @@ $$ \kappa_{e} = \left[ {\sum_{i}{L_{i} \sigma_{i}} + \sum_{i}{\sigma_{i} S_{i}^{
 
 ### P001: Engineering Thermoelectric Model (H.S. Kim et al., 2015)
 
-$$ \eta_{max} = \eta _{c} \frac{\sqrt{1 + ZT _{eng} \alpha _{1} \eta _{c}^{-1}} - 1}{\alpha _{0} \sqrt{1 + ZT _{eng}  \alpha _{1} \eta _c^{-1}} + \alpha _{2}} $$
+$$ \eta_{max} = \eta _{c} \frac{\sqrt{1 + (ZT) _{eng} \alpha _{1} \eta _{c}^{-1}} - 1}{\alpha _{0} \sqrt{1 + (ZT) _{eng} \alpha _{1} \eta _c^{-1}} + \alpha _{2}} $$
 
 ([Return &#8673;](#formulas4te) | [Show Details ...](papers/P001.md))
 
