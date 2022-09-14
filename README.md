@@ -78,13 +78,13 @@ $$ \beta = \frac{\mu_{0} (m^{\ast}/m_{e})^{3/2} T^{3/2}}{\kappa_{L}}T $$
 
 *Single parabolic band (SPB) model with acoustic phonon scattering (APS) mechanism and deformation potential theory*
 
-$$ E = \frac{\hbar ^{2} k^{2}}{2 m ^{\ast}} $$
+$$ E = \frac{\hbar ^{2} k^{2}}{2 m^{\ast}} $$
 
 $$ g(E) = \frac{(2 m_{d} ^{\ast})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} = \frac{N_{v} (2 m_{b} ^{\ast})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} $$
 
 $$ v^{2}(E) = \frac{2E}{m_{b} ^{\ast}} $$
 
-$$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} = \frac{2 \pi \hbar^{4} C_{ii}}{(2 m ^{\ast})^{3/2} k_{B} T \Xi^{2}} E^{-1/2} $$
+$$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T {\Xi ^{2}}} \frac{1}{g(E)} = \frac{2 \pi \hbar^{4} C_{ii}}{(2 m^{\ast})^{3/2} k_{B} T {\Xi ^{2}}} E^{-1/2} $$
 
 $$ F_{n}(\eta) = \int _{0}^{+\infty} {{\frac{x^{n}}{1+\exp (x-\eta)}}} dx $$
 
