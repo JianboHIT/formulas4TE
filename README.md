@@ -59,7 +59,7 @@ $$PF=\sigma S^{2}$$
 
 $$\sigma = ne\mu$$
 
-$$\mu = e \frac{\tau}{m^{*}}$$
+$$\mu = e \frac{\tau}{m ^{\ast}}$$
 
 $$\kappa = \kappa_{L} + \kappa_{e} + \kappa_{bip} $$
 
@@ -71,30 +71,30 @@ $$\eta = \frac{T_{h}-T_{c}}{T_{h}} \cdot \frac{\sqrt{1+ZT}-1}{\sqrt{1+ZT}+T_{c} 
 
 $$s = \frac{\sqrt{1+ZT}-1}{S \cdot T}$$
 
-$$ \beta = \frac{\mu_{0} (m^{*}/m_{e})^{3/2} T^{3/2}}{\kappa_{L}}T $$
+$$ \beta = \frac{\mu_{0} (m ^{\ast}/m_{e})^{3/2} T^{3/2}}{\kappa_{L}}T $$
 
 
 ## APS-SPB Model
 
 *Single parabolic band (SPB) model with acoustic phonon scattering (APS) mechanism and deformation potential theory*
 
-$$ E = \frac{\hbar ^{2} k^{2}}{2 m^{*}} $$
+$$ E = \frac{\hbar ^{2} k^{2}}{2 m ^{\ast}} $$
 
-$$ g(E) = \frac{(2 m_{d}^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} = \frac{N_{v} (2 m_{b}^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} $$
+$$ g(E) = \frac{(2 m_{d} ^{\ast})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} = \frac{N_{v} (2 m_{b} ^{\ast})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} $$
 
-$$ v^{2}(E) = \frac{2E}{m_{b}^{*}} $$
+$$ v^{2}(E) = \frac{2E}{m_{b} ^{\ast}} $$
 
-$$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} = \frac{2 \pi \hbar^{4} C_{ii}}{(2 m^{*})^{3/2} k_{B} T \Xi^{2}} E^{-1/2} $$
+$$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} = \frac{2 \pi \hbar^{4} C_{ii}}{(2 m ^{\ast})^{3/2} k_{B} T \Xi^{2}} E^{-1/2} $$
 
 $$ F_{n}(\eta) = \int _{0}^{+\infty} \frac{x^{n}}{1+\exp (x-\eta)} dx $$
 
 $$ x = \frac{E}{k_{B}T}, \eta = \frac{E_{F}}{k_{B}T} $$
 
-$$ n = \frac{N_{v}( 2 m_{b}^{*} k_{B} T )^{3/2}}{2\pi ^{2} \hbar ^{3}} F_{1/2}( \eta ) $$
+$$ n = \frac{N_{v}( 2 m_{b} ^{\ast} k_{B} T )^{3/2}}{2\pi ^{2} \hbar ^{3}} F_{1/2}( \eta ) $$
 
-$$ \mu = \frac{4 \pi e \hbar ^{4} C_{ii}}{m_{I}^{*} (2 m_{b}^{*} k_{B} T)^{3/2} \Xi ^{2}} \frac{F_{0}(\eta)}{3 F_{1/2}(\eta)} $$
+$$ \mu = \frac{4 \pi e \hbar ^{4} C_{ii}}{m_{I} ^{\ast} (2 m_{b} ^{\ast} k_{B} T)^{3/2} \Xi ^{2}} \frac{F_{0}(\eta)}{3 F_{1/2}(\eta)} $$
 
-$$ \sigma = \frac{2 N_{v} e^2 \hbar C_{ii}}{3 \pi m_{I}^{*} \Xi ^{2} } F_{0}(\eta)$$
+$$ \sigma = \frac{2 N_{v} e^2 \hbar C_{ii}}{3 \pi m_{I} ^{\ast} \Xi ^{2} } F_{0}(\eta)$$
 
 $$ S = \frac{k_{B}}{e} \left( \frac{2 F_{1}(\eta)}{F_{0}(\eta)} - \eta \right) $$
 
@@ -107,11 +107,11 @@ $$ r_{H} = \frac{n}{n_{H}} = \frac{\mu_{H}}{\mu} = \frac{3 F_{1/2}(\eta) F_{-1/2
 
 *Single Kane band (SKB) model with acoustic phonon scattering (APS) mechanism and deformation potential theory*
 
-$$ E \left( 1+\frac{E}{E_{g}} \right) = \frac{\hbar ^{2} k^{2}}{2 m^{*}} $$
+$$ E \left( 1+\frac{E}{E_{g}} \right) = \frac{\hbar ^{2} k^{2}}{2 m ^{\ast}} $$
 
-$$ g(E) = \frac{N_{v} (2 m_{b}^{*})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} \left( 1+\frac{E}{E_{g}} \right) ^{1/2} \left( 1 + 2 \frac{E}{E_{g}} \right) $$
+$$ g(E) = \frac{N_{v} (2 m_{b} ^{\ast})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} \left( 1+\frac{E}{E_{g}} \right) ^{1/2} \left( 1 + 2 \frac{E}{E_{g}} \right) $$
 
-$$ v^{2}(E) = \frac{2E}{m_{b}^{*}} \left( 1+\frac{E}{E_{g}} \right) \left( 1 + 2 \frac{E}{E_{g}} \right) ^{-2} $$
+$$ v^{2}(E) = \frac{2E}{m_{b} ^{\ast}} \left( 1+\frac{E}{E_{g}} \right) \left( 1 + 2 \frac{E}{E_{g}} \right) ^{-2} $$
 
 $$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} \frac{3(1+2E/E_{g})^{2}} {(1+2E/E_{g})^{2}+2} $$
 
@@ -119,11 +119,11 @@ $$ ^{n}F^{m}_{k}(\eta, \alpha) = \int _{0}^{+\infty}{x^{n} (x+\alpha x^{2})^{m}[
 
 $$ x = \frac{E}{k_{B}T}, \eta = \frac{E_{F}}{k_{B}T}, \alpha = \frac{k_{B}T}{E_{g}} $$
 
-$$ n = \frac{N_{v}( 2 m_{b}^{*} k_{B} T )^{3/2}}{3\pi ^{2} \hbar ^{3}} {^{0}F^{3/2}_{0}(\eta, \alpha)} $$
+$$ n = \frac{N_{v}( 2 m_{b} ^{\ast} k_{B} T )^{3/2}}{3\pi ^{2} \hbar ^{3}} {^{0}F^{3/2}_{0}(\eta, \alpha)} $$
 
-$$ \mu = \frac{2 \pi e \hbar ^{4} C_{ii}}{m_{I}^{*} (2 m_{b}^{*} k_{B} T)^{3/2} \Xi ^{2}} \frac{3\ ^{0}F^{1} _{-2}(\eta, \alpha)} {^{0}F^{3/2} _{0}(\eta, \alpha)} $$
+$$ \mu = \frac{2 \pi e \hbar ^{4} C_{ii}}{m_{I} ^{\ast} (2 m_{b} ^{\ast} k_{B} T)^{3/2} \Xi ^{2}} \frac{3\ ^{0}F^{1} _{-2}(\eta, \alpha)} {^{0}F^{3/2} _{0}(\eta, \alpha)} $$
 
-$$ \sigma = \frac{2 N_{v} e^2 \hbar C_{ii}}{\pi m_{I}^{*} \Xi ^{2} } {^{0}F^{1} _{-2}(\eta, \alpha)} $$
+$$ \sigma = \frac{2 N_{v} e^2 \hbar C_{ii}}{\pi m_{I} ^{\ast} \Xi ^{2} } {^{0}F^{1} _{-2}(\eta, \alpha)} $$
 
 $$ S = \frac{k_{B}}{e} \left( \frac{^{1}F^{1} _{-2}(\eta, \alpha)}{^{0}F^{1} _{-2}(\eta, \alpha)} - \eta \right) $$
 
