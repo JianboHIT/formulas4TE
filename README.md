@@ -185,6 +185,8 @@ $$ S_{r} = \ln \left( 1.075 + \frac{e^{2}}{n_{r}} \right) $$
 
 ## 附录：如何在 MicroSoft Office 中使用这里的公式
 
+> ***如果图片加载异常，国内用户可以访问*** [https://gitee.com/joulehit/formulas4TE](https://gitee.com/joulehit/formulas4TE/blob/master/README.md)
+
 ### &bull; 方法一（适用于 Word 和 PPT）
 
 1. 在网页中的公式上右键，点击 **Copy to Clipboard** > **TeX Commands**；
