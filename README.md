@@ -63,7 +63,7 @@ $$ \mu = e \frac{\tau}{m^{\ast}} $$
 
 $$\kappa = \kappa_{L} + \kappa_{e} + \kappa_{bip} $$
 
-$$\kappa_{L} = \frac{1}{3} \cdot C_{v}vl$$
+$$\kappa_{L} = \frac{1}{3} C_{v}vl$$
 
 $$\kappa_{e} = L \sigma T$$
 
@@ -84,7 +84,7 @@ $$ g(E) = \frac{(2 m_{d} ^{\ast})^{3/2}}{2 \pi^{2} \hbar^{3}} E^{1/2} = \frac{N_
 
 $$ v^{2}(E) = \frac{2E}{m_{b} ^{\ast}} $$
 
-$$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T {\Xi ^{2}}} \frac{1}{g(E)} = \frac{2 \pi \hbar^{4} C_{ii}}{(2 m^{\ast})^{3/2} k_{B} T {\Xi ^{2}}} E^{-1/2} $$
+$$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T {\Xi ^{2}}} \frac{1}{g(E)} = \frac{2 \pi \hbar^{4} C_{ii}}{(2 m_{b} ^{\ast})^{3/2} k_{B} T {\Xi ^{2}}} E^{-1/2} $$
 
 $$ F_{n}(\eta) = \int _{0}^{+\infty} {{\frac{x^{n}}{1+\exp (x-\eta)}}} dx $$
 
