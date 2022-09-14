@@ -86,7 +86,7 @@ $$ v^{2}(E) = \frac{2E}{m_{b} ^{\ast}} $$
 
 $$ \tau(E) = \frac{N_{v} \hbar C_{ii}}{\pi  k_{B} T \Xi ^{2}} \frac{1}{g(E)} = \frac{2 \pi \hbar^{4} C_{ii}}{(2 m ^{\ast})^{3/2} k_{B} T \Xi^{2}} E^{-1/2} $$
 
-$$ F_{n}(\eta) = \int _{0}^{+\infty} \frac{x^{n}}{1+\exp (x-\eta)} dx $$
+$$ F_{n}(\eta) = \int _{0}^{+\infty} {{\frac{x^{n}}{1+\exp (x-\eta)}}} dx $$
 
 $$ x = \frac{E}{k_{B}T}, \eta = \frac{E_{F}}{k_{B}T} $$
 
