@@ -10,7 +10,7 @@ Summary some formulas and equations for thermoelectricity(TE)
 尽管目前 MicroSoft Office 提供了非常方便的内嵌公式编辑器，但是由于公式的形式较为复杂，
 因此我们还是需要花费大量的时间来输入这些公式。这里，我们总结了一些高频使用的和经典文献里的公式，
 不但能够方便截图使用，同时也能够非常容易地粘贴为 MicroSoft Office 的内嵌公式（参考后面的
-**[附录：如何在 MicroSoft Office 中使用这里的公式](#%E9%99%84%E5%BD%95%E5%A6%82%E4%BD%95%E5%9C%A8-microsoft-office-%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%BF%99%E9%87%8C%E7%9A%84%E5%85%AC%E5%BC%8F)**
+**[Appendix: How to use equations in MicroSoft Office](#appendix-how-to-use-equations-in-microsoft-office)**
 ），提高工作效率。这里强烈推荐使用后面的方法在 MicroSoft Office 中粘贴使用公式，
 一方面可以对公式进行进一步的修改和调整，满足自己的需求，
 同时也可以获得比网页截图更好的显示效果，比如上、下标显示的相对大小更加合理。
@@ -29,9 +29,9 @@ Summary some formulas and equations for thermoelectricity(TE)
 
 <!-- block::start::content-zh --> 
 
-- **[附录：如何在 MicroSoft Office 中使用这里的公式](#%E9%99%84%E5%BD%95%E5%A6%82%E4%BD%95%E5%9C%A8-microsoft-office-%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%BF%99%E9%87%8C%E7%9A%84%E5%85%AC%E5%BC%8F)**
-    - [方法一（适用于 Word 和 PPT）](#-%E6%96%B9%E6%B3%95%E4%B8%80%E9%80%82%E7%94%A8%E4%BA%8E-word-%E5%92%8C-ppt)
-    - [方法二（仅适用于 Word）](#-%E6%96%B9%E6%B3%95%E4%B8%80%E9%80%82%E7%94%A8%E4%BA%8E-word-%E5%92%8C-ppt)
+- **[Appendix: How to use equations in MicroSoft Office](#appendix-how-to-use-equations-in-microsoft-office)**
+    - [Method 1 (Both MicroSoft Word and PPT support)](#-method-1-both-microsoft-word-and-ppt-support)
+    - [Method 2 (Only Word supports)](#-method-2-only-word-supports)
 
 <!-- block::end::content-zh -->
 
@@ -170,9 +170,9 @@ $$ S_{r} = \ln \left( 1.075 + \frac{e^{2}}{n_{r}} \right) $$
 
 <!-- block::start::howto -->
 
-### How to use equations in MicroSoft Office
+## Appendix: How to use equations in MicroSoft Office
 
-#### &bull; Method 1 (Both MicroSoft Word and PPT support)
+### &bull; Method 1 (Both MicroSoft Word and PPT support)
 
 1. Right click on the equation, select **Copy to Clipboard** > **TeX Commands**.
 
@@ -194,7 +194,7 @@ $$ S_{r} = \ln \left( 1.075 + \frac{e^{2}}{n_{r}} \right) $$
 
 <img src="pictures/step-1-5.png" width="85%">
 
-#### &bull; Method 2 (Only Word supports)
+### &bull; Method 2 (Only Word supports)
 
 1. Right click on the equation, select **Copy to Clipboard** > **MathML Code**.
 
