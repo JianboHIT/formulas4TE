@@ -1,7 +1,8 @@
 # formulas4TE
-Summary some formulas and equations for thermoelectricity(TE)
 
 <!-- block::start::motivation -->
+
+Summary some formulas and equations for thermoelectricity(TE)
 
 > 选择语言：简体中文, English(*TODO*)
 
@@ -15,6 +16,8 @@ Summary some formulas and equations for thermoelectricity(TE)
 同时也可以获得比网页截图更好的显示效果，比如上、下标显示的相对大小更加合理。
 非常欢迎大家在讨论区（[Issues](../../issues)）里勘误、建议以及补充！
 
+<!-- block::end::motivation -->
+
 - [Basic Principles](#basic-principles)
 - [APS-SPB Model](#aps-spb-model)
 - [APS-SKB model](#aps-skb-model)
@@ -23,11 +26,14 @@ Summary some formulas and equations for thermoelectricity(TE)
 - [Equations in Papers](#equations-in-papers)
   - [P001: Engineering Thermoelectric Model (H.S. Kim et al., 2015)](#p001-engineering-thermoelectric-model-hs-kim-et-al-2015)
   - [P002: Restructure SPB (RSPB) Model (J. Zhu et al., 2021)](#p002-restructure-spb-rspb-model-j-zhu-et-al-2021)
+
+<!-- block::start::content-zh --> 
+
 - **[附录：如何在 MicroSoft Office 中使用这里的公式](#%E9%99%84%E5%BD%95%E5%A6%82%E4%BD%95%E5%9C%A8-microsoft-office-%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%BF%99%E9%87%8C%E7%9A%84%E5%85%AC%E5%BC%8F)**
     - [方法一（适用于 Word 和 PPT）](#-%E6%96%B9%E6%B3%95%E4%B8%80%E9%80%82%E7%94%A8%E4%BA%8E-word-%E5%92%8C-ppt)
     - [方法二（仅适用于 Word）](#-%E6%96%B9%E6%B3%95%E4%B8%80%E9%80%82%E7%94%A8%E4%BA%8E-word-%E5%92%8C-ppt)
 
-<!-- block::end::motivation -->
+<!-- block::end::content-zh -->
 
 
 ## Basic Principles
