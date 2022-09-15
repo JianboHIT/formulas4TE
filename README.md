@@ -2,9 +2,9 @@
 
 <!-- block::start::motivation -->
 
-Summary some formulas and equations for thermoelectricity(TE)
+**热电领域内一些常用公式和经典文献中公式的总结**
 
-> 选择语言：简体中文, English(*TODO*)
+> 选择语言：简体中文, [English](README-en.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在热电研究中，我们常常需要反复地使用一些公式。
 尽管目前 MicroSoft Office 提供了非常方便的内嵌公式编辑器，但是由于公式的形式较为复杂，
