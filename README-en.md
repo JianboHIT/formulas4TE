@@ -4,7 +4,7 @@
 
 ***Summary some formulas and equations for thermoelectricity(TE)***
 
-> 选择语言：简体中文, English(*TODO*)
+> Read this in other languages: [简体中文](README.md), English
 
 We often need to use some formulas repeatedly in thermoelectric research. 
 Although, an efficient built-in equation editor is embedded in MicroSoft Office, 
