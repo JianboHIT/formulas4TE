@@ -1,6 +1,8 @@
 # formulas4TE
 Summary some formulas and equations for thermoelectricity(TE)
 
+<!-- block::start::motivation -->
+
 > 选择语言：简体中文, English(*TODO*)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在热电研究中，我们常常需要反复地使用一些公式。
@@ -25,31 +27,8 @@ Summary some formulas and equations for thermoelectricity(TE)
     - [方法一（适用于 Word 和 PPT）](#-%E6%96%B9%E6%B3%95%E4%B8%80%E9%80%82%E7%94%A8%E4%BA%8E-word-%E5%92%8C-ppt)
     - [方法二（仅适用于 Word）](#-%E6%96%B9%E6%B3%95%E4%B8%80%E9%80%82%E7%94%A8%E4%BA%8E-word-%E5%92%8C-ppt)
 
-<!--
+<!-- block::end::motivation -->
 
-### Preview version
-
-$$ZT=\frac{\sigma S^2}{\kappa} \cdot T$$
-
-$$PF=\sigma S^{2}$$
-
-$$\sigma = ne\mu$$
-
-$$\kappa = \kappa_{L} + \kappa_{e} + \kappa_{bip} $$
-
-$$\eta = \frac{T_{h}-T_{c}}{T_{h}} \cdot \frac{\sqrt{1+ZT}-1}{\sqrt{1+ZT}+T_{c} / T_{h}}$$
-
-$$s = \frac{\sqrt{1+ZT}-1}{S \cdot T}$$
-
-$$ZT_{dev} = \left[{ \frac{T_{h}-T_{c}(1-\eta)}{T_{h}(1-\eta)-T_{c}}}\right]^{2}-1$$
-
-$$S_{r} = \ln \left( {1.075 + \frac{e^{2}}{n_{r}}} \right)$$
-
-$$\mu_{r} = \left( {1 + \frac{n_{r}}{2}} \right)^{-1/3}$$
-
-$$L_{r} = 2 + \frac{\pi^{2}/3-2}{\left[ {1+(n_{r}/2\pi)^{-3/2}} \right] ^ {3/2}}$$
-
--->
 
 ## Basic Principles
 
@@ -183,6 +162,8 @@ $$ S_{r} = \ln \left( 1.075 + \frac{e^{2}}{n_{r}} \right) $$
 > &bull; GitHub rSPB respository. [https://github.com/JianboHIT/rSPB](https://github.com/JianboHIT/rSPB)
 
 
+<!-- block::start::howto -->
+
 ## 附录：如何在 MicroSoft Office 中使用这里的公式
 
 > ***如果图片加载异常，国内用户可以访问*** [https://gitee.com/joulehit/formulas4TE](https://gitee.com/joulehit/formulas4TE/blob/master/README.md)
@@ -222,3 +203,5 @@ $$ S_{r} = \ln \left( 1.075 + \frac{e^{2}}{n_{r}} \right) $$
 3. 完成。
 
 <img src="pictures/step-2-3.png" width="85%">
+
+<!-- block::end::howto -->
