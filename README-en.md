@@ -2,19 +2,18 @@
 
 <!-- block::start::motivation -->
 
-Summary some formulas and equations for thermoelectricity(TE)
+***Summary some formulas and equations for thermoelectricity(TE)***
 
 > 选择语言：简体中文, English(*TODO*)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在热电研究中，我们常常需要反复地使用一些公式。
-尽管目前 MicroSoft Office 提供了非常方便的内嵌公式编辑器，但是由于公式的形式较为复杂，
-因此我们还是需要花费大量的时间来输入这些公式。这里，我们总结了一些高频使用的和经典文献里的公式，
-不但能够方便截图使用，同时也能够非常容易地粘贴为 MicroSoft Office 的内嵌公式（参考后面的
+We often need to use some formulas repeatedly in thermoelectric research. 
+Although, an efficient built-in equation editor is embedded in MicroSoft Office, 
+it still takes some time to edit these numerous complex repetitive formulas. 
+Here, some frequently used and reported formulas are collected, which not only facilitates the use of screenshots, 
+but also can be easily copied to MicroSoft Office as an embedded equation (see 
 **[Appendix: How to use equations in MicroSoft Office](#appendix-how-to-use-equations-in-microsoft-office)**
-），提高工作效率。这里强烈推荐使用后面的方法在 MicroSoft Office 中粘贴使用公式，
-一方面可以对公式进行进一步的修改和调整，满足自己的需求，
-同时也可以获得比网页截图更好的显示效果，比如上、下标显示的相对大小更加合理。
-非常欢迎大家在讨论区（[Issues](../../issues)）里勘误、建议以及补充！
+), improving work efficiency. Any bug reports or suggestions are very welcome, which can be discussed at 
+[Issues](../../issues) page.
 
 <!-- block::end::motivation -->
 
