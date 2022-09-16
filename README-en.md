@@ -6,7 +6,7 @@
 
 > Read this in other languages: [简体中文](README.md), English
 
-&nbsp;&nbsp;We often need to use some formulas repeatedly in thermoelectric research. 
+&nbsp;&nbsp;&nbsp;&nbsp;We often need to use some formulas repeatedly in thermoelectric research. 
 Although, an efficient built-in equation editor is embedded in MicroSoft Office, 
 it still takes some time to edit these numerous complex repetitive formulas. 
 Here, some frequently used and reported formulas are collected, which not only facilitates the use of screenshots, 
