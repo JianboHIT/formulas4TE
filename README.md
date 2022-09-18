@@ -167,6 +167,13 @@ $$ S_{r} = \ln \left( 1.075 + \frac{e^{2}}{n_{r}} \right) $$
 >
 > &bull; GitHub rSPB respository. [https://github.com/JianboHIT/rSPB](https://github.com/JianboHIT/rSPB)
 
+### P003: Device Figure-of-Merit (ZTdev) (G.J. Snyder et al., 2017)
+
+$$ (ZT)\_{dev} = \left[ \frac{T\_{h} - T\_{c}(1-\eta)}{T\_{h}(1-\eta) - T\_{c}} \right] ^{2} - 1 $$
+
+([Return &#8673;](#formulas4te) | [Show Details ...](papers/P003.md))
+
+> &bull; G.J. Snyder, A.H. Snyder, Figure of merit zt of a thermoelectric device defined from materials properties, Energy Environ. Sci. 10 (11) (2017) 2280-2283. [https://doi.org/10.1039/C7EE02007D](https://doi.org/10.1039/C7EE02007D).
 
 <!-- block::start::howto -->
 
