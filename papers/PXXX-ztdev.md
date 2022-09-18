@@ -15,7 +15,7 @@ $$ \eta = 1 - \frac{\Phi(T\_{c})}{\Phi(T\_{h})} $$
 
 $$ \Phi = ST+1/u $$
 
-$$ \frac{1}{u\_{n}} = \frac{1}{u\_{n-1}} \sqrt{1 - u\_{n-1}^2 (\rho _{n} \kappa _{n} + \rho _{n-1} \kappa _{n-1})(T\_{n} - T\_{n-1})} - \left( \frac{T\_{n} + T\_{n-1})}{2} \right) (S\_{n} - S\_{n-1}) $$
+$$ \frac{1}{u\_{n}} = \frac{1}{u\_{n-1}} \sqrt{1 - u\_{n-1}^2 (\rho _{n} \kappa _{n} + \rho _{n-1} \kappa _{n-1})(T\_{n} - T\_{n-1})} - \left( \frac{T\_{n} + T\_{n-1}}{2} \right) (S\_{n} - S\_{n-1}) $$
 
 $$ +------------------------------------------+ $$
 
