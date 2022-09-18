@@ -26,6 +26,7 @@
 - [Equations in Papers](#equations-in-papers)
   - [P001: Engineering Thermoelectric Model (H.S. Kim et al., 2015)](#p001-engineering-thermoelectric-model-hs-kim-et-al-2015)
   - [P002: Restructure SPB (RSPB) Model (J. Zhu et al., 2021)](#p002-restructure-spb-rspb-model-j-zhu-et-al-2021)
+  - [P003: Device Figure-of-Merit (ZTdev) (G.J. Snyder et al., 2017)](#p003-device-figure-of-merit-ztdev-gj-snyder-et-al-2017)
 
 <!-- block::start::content-zh --> 
 
