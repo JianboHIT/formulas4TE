@@ -23,7 +23,7 @@ but also can be easily copied to MicroSoft Office as an embedded equation (see
 - [Boltzmann Equation Description of Electron Transport](#boltzmann-equation-description-of-electron-transport)
 - [Expressions for Multiband Conduction](#expressions-for-multiband-conduction)
 - [Equations in Papers](#equations-in-papers)
-  - [P001: Engineering Thermoelectric Model (H.S. Kim et al., 2015)](#p001-engineering-thermoelectric-model-hs-kim-et-al-2015)
+  - [P001: Engineering Thermoelectric Model (ZTeng) (H.S. Kim et al., 2015)](#p001-engineering-thermoelectric-model-zteng-hs-kim-et-al-2015)
   - [P002: Restructure SPB (RSPB) Model (J. Zhu et al., 2021)](#p002-restructure-spb-rspb-model-j-zhu-et-al-2021)
   - [P003: Device Figure-of-Merit (ZTdev) (G.J. Snyder et al., 2017)](#p003-device-figure-of-merit-ztdev-gj-snyder-et-al-2017)
 
@@ -149,7 +149,7 @@ $$ \kappa_{e} = \left[ {\sum_{i}{L_{i} \sigma_{i}} + \sum_{i}{\sigma_{i} S_{i}^{
 
 ## Equations in Papers
 
-### P001: Engineering Thermoelectric Model (H.S. Kim et al., 2015)
+### P001: Engineering Thermoelectric Model (ZTeng) (H.S. Kim et al., 2015)
 
 $$ \eta_{max} = \eta _{c} \frac{\sqrt{1 + (ZT) _{eng} \alpha _{1} \eta _{c}^{-1}} - 1}{\alpha _{0} \sqrt{1 + (ZT) _{eng} \alpha _{1} \eta _c^{-1}} + \alpha _{2}} $$
 
