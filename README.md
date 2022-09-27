@@ -27,6 +27,7 @@
   - [P001: Engineering Thermoelectric Model (ZTeng) (H.S. Kim et al., 2015)](#p001-engineering-thermoelectric-model-zteng-hs-kim-et-al-2015)
   - [P002: Restructure SPB (RSPB) Model (J. Zhu et al., 2021)](#p002-restructure-spb-rspb-model-j-zhu-et-al-2021)
   - [P003: Device Figure-of-Merit (ZTdev) (G.J. Snyder et al., 2017)](#p003-device-figure-of-merit-ztdev-gj-snyder-et-al-2017)
+  - [P004: Thermoelectric compatibility factor (CF) (G.J. Snyder et al., 2003)](#p004-thermoelectric-compatibility-factor-cf-gj-snyder-et-al-2003)
 
 <!-- block::start::content-zh --> 
 
