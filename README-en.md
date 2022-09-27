@@ -154,7 +154,7 @@ $$ \kappa_{e} = \left[ {\sum_{i}{L_{i} \sigma_{i}} + \sum_{i}{\sigma_{i} S_{i}^{
 
 $$ \eta_{max} = \eta _{c} \frac{\sqrt{1 + (ZT) _{eng} \alpha _{1} \eta _{c}^{-1}} - 1}{\alpha _{0} \sqrt{1 + (ZT) _{eng} \alpha _{1} \eta _c^{-1}} + \alpha _{2}} $$
 
-([Return &#8673;](#formulas4te) | [Show Details ...](papers/P001.md))
+([Back to Top &#8673;](#formulas4te) | [Show Details ...](papers/P001.md))
 
 > &bull; H.S. Kim, W. Liu, G. Chen, C. Chu, Z. Ren, Relationship between thermoelectric figure of merit and energy conversion efficiency, Proceedings of the National Academy of Sciences 112 (27) (2015) 8205-8210. [ https://doi.org/10.1073/pnas.1510231112](https://doi.org/10.1073/pnas.1510231112)
 
@@ -162,7 +162,7 @@ $$ \eta_{max} = \eta _{c} \frac{\sqrt{1 + (ZT) _{eng} \alpha _{1} \eta _{c}^{-1}
 
 $$ S_{r} = \ln \left( 1.075 + \frac{e^{2}}{n_{r}} \right) $$
 
-([Return &#8673;](#formulas4te) | [Show Details ...](papers/P002.md))
+([Back to Top &#8673;](#formulas4te) | [Show Details ...](papers/P002.md))
 
 > &bull; J. Zhu, X. Zhang, M. Guo, J. Li, J. Hu, S. Cai, W. Cai, Y. Zhang, J. Sui, Restructured single parabolic band model for quick analysis in thermoelectricity, npj computational materials 7 (1) (2021) 1-8. [https://doi.org/10.1038/s41524-021-00587-5](https://doi.org/10.1038/s41524-021-00587-5)
 >
@@ -172,7 +172,7 @@ $$ S_{r} = \ln \left( 1.075 + \frac{e^{2}}{n_{r}} \right) $$
 
 $$ (ZT)\_{dev} = \left[ \frac{T\_{h} - T\_{c}(1-\eta)}{T\_{h}(1-\eta) - T\_{c}} \right] ^{2} - 1 $$
 
-([Return &#8673;](#formulas4te) | [Show Details ...](papers/P003.md))
+([Back to Top &#8673;](#formulas4te) | [Show Details ...](papers/P003.md))
 
 > &bull; G.J. Snyder, A.H. Snyder, Figure of merit zt of a thermoelectric device defined from materials properties, Energy Environ. Sci. 10 (11) (2017) 2280-2283. [https://doi.org/10.1039/C7EE02007D](https://doi.org/10.1039/C7EE02007D).
 
@@ -180,7 +180,7 @@ $$ (ZT)\_{dev} = \left[ \frac{T\_{h} - T\_{c}(1-\eta)}{T\_{h}(1-\eta) - T\_{c}} 
 
 $$ s = \frac{\sqrt{1+ZT}-1}{ST} $$
 
-([Return &#8673;](#formulas4te) | [Show Details ...](papers/P004.md))
+([Back to Top &#8673;](#formulas4te) | [Show Details ...](papers/P004.md))
 
 > &bull; G.J. Snyder, T.S. Ursell, Thermoelectric efficiency and compatibility, Phys. Rev. Lett. 91 (14830114) (2003). [https://doi.org/10.1103/PhysRevLett.91.148301](https://doi.org/10.1103/PhysRevLett.91.148301).
 >
