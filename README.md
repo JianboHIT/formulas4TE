@@ -176,6 +176,18 @@ $$ (ZT)\_{dev} = \left[ \frac{T\_{h} - T\_{c}(1-\eta)}{T\_{h}(1-\eta) - T\_{c}} 
 
 > &bull; G.J. Snyder, A.H. Snyder, Figure of merit zt of a thermoelectric device defined from materials properties, Energy Environ. Sci. 10 (11) (2017) 2280-2283. [https://doi.org/10.1039/C7EE02007D](https://doi.org/10.1039/C7EE02007D).
 
+### P004: Thermoelectric compatibility factor (CF) (G.J. Snyder et al., 2003)
+
+$$ s = \frac{\sqrt{1+ZT}-1}{ST} $$
+
+([Return &#8673;](#formulas4te) | [Show Details ...](papers/P004.md))
+
+> &bull; G.J. Snyder, T.S. Ursell, Thermoelectric efficiency and compatibility, Phys. Rev. Lett. 91 (14830114) (2003). [https://doi.org/10.1103/PhysRevLett.91.148301](https://doi.org/10.1103/PhysRevLett.91.148301).
+>
+> &bull; W. Seifert, K. Zabrocki, G.J. Snyder, E. Müller, The compatibility approach in the classical theory of thermoelectricity seen from the perspective of variational calculus, physica status solidi (a) 207 (3) (2010) 760-765. [https://doi.org/10.1002/pssa.200925460](https://doi.org/10.1002/pssa.200925460).
+>
+> &bull; W. Seifert, V. Pluschke, C. Goupil, K. Zabrocki, E. Müller, G.J. Snyder, Maximum performance in self-compatible thermoelectric elements, J. Mater. Res. 26 (15) (2011) 1933-1939. [https://doi.org/10.1557/jmr.2011.139](https://doi.org/10.1557/jmr.2011.139).
+
 <!-- block::start::howto -->
 
 ## 附录：如何在 MicroSoft Office 中使用这里的公式
